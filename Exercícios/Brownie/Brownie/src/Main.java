@@ -1,4 +1,4 @@
-// Exercicio 1
+// Exercicio 2
 
 public class Main {
     public static void main(String[] args) {

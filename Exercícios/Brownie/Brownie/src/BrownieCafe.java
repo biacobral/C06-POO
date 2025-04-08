@@ -7,4 +7,9 @@ public class BrownieCafe extends Brownie{
     void adicionaCafe(){
         System.out.println("Adicionando cafe...");
     }
+
+    @Override
+    void addCarrinhoDeCompras(){
+        System.out.println("Adicionando Brownie de Café no carrinho...");
+    }
 }
