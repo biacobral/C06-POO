@@ -6,7 +6,13 @@ public class Main {
         Boi boi = new Boi("Da Cara Preta", 100);
 
         cachorro.emitirSom();
+        cachorro.mostraInfo();
+
         lontra.emitirSom();
+        lontra.nadar();
+        lontra.mostraInfo();
+
         boi.emitirSom();
+        boi.mostraInfo();
     }
 }
