@@ -1,0 +1,5 @@
+Chris=POO
+Jonas=BD
+Renan=Probabilidade
+Yvo=Microcontroladores
+Breno=Fisica
